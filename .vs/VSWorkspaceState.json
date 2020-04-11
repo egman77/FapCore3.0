@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src"
+    "\\product",
+    "\\product\\hcm",
+    "\\product\\hcm\\Fap.Hcm.Web",
+    "\\src",
+    "\\src\\Fap.AspNetCore",
+    "\\src\\Fap.Core",
+    "\\src\\Fap.ExcelReport",
+    "\\thirdparty",
+    "\\thirdparty\\SQLGeneration"
   ],
+  "SelectedNode": "\\fap-netcore.sln",
   "PreviewInSolutionExplorer": false
 }
